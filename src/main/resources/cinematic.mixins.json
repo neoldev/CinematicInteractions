@@ -15,7 +15,8 @@
     "HumanoidModelMixin",
     "ItemInHandLayerMixin",
     "LecternRendererMixin",
-    "compat.PunchyCameraStateMixin"
+    "compat.PunchyCameraStateMixin",
+    "compat.FirstPersonModelLogicMixin"
   ],
   "injectors": {
     "defaultRequire": 1

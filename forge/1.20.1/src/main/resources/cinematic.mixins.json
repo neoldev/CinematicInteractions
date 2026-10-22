@@ -16,7 +16,8 @@
     "HumanoidModelMixin",
     "ItemInHandLayerMixin",
     "LecternRendererMixin",
-    "MouseHandlerMixin"
+    "MouseHandlerMixin",
+    "compat.FirstPersonModelLogicMixin"
   ],
   "injectors": {
     "defaultRequire": 1
