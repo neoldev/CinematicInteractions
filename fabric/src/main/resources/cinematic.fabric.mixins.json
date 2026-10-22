@@ -27,7 +27,8 @@
     "BossHealthOverlayMixin",
     "PlayerRendererMixin",
     "ClientLevelMixin",
-    "compat.PunchyCameraStateMixin"
+    "compat.PunchyCameraStateMixin",
+    "compat.FirstPersonModelLogicMixin"
   ],
   "injectors": {
     "defaultRequire": 1
